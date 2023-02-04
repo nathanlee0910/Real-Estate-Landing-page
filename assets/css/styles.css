@@ -53,6 +53,7 @@ a {
 
 .header {
     position: relative;
+    align-items: center;
     height: 736px;
     background-color: #e6f0ff;
 }
